@@ -1,4 +1,7 @@
 # X-MedRELA
+
+Original Repository Located Here: https://github.com/zhenwang9102/X-MedRELA.git
+
 Source code for ACL 2020 paper "[Rationalizing Medical Relation Prediction from Corpus-level Statistics](https://zhenwang9102.github.io/pdf/ACL2020_ZW_X_MedRELA.pdf)".
 
 ## Introduction
